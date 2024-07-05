@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/tomato/Tomato_bell-master/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/hello_autogen",
+	"CMAKE_BINARY_DIR" : "C:/tomato/Tomato_bell-master/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/tomato/Tomato_bell-master/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/tomato/Tomato_bell-master",
+	"CMAKE_SOURCE_DIR" : "C:/tomato/Tomato_bell-master",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/tomato/Tomato_bell-master/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/hello_autogen/include",
+	"INPUTS" : [ "C:/tomato/Tomato_bell-master/resources/icon.png" ],
+	"LOCK_FILE" : "C:/tomato/Tomato_bell-master/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/hello_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/QT/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/tomato/Tomato_bell-master/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/hello_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "C:/tomato/Tomato_bell-master/resources/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
