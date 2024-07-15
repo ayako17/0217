@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mainClock</class>
+ <widget class="QWidget" name="mainClock">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <widget class="QPushButton" name="exitButton">
+   <property name="geometry">
+    <rect>
+     <x>1109</x>
+     <y>670</y>
+     <width>101</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>退出</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="MusicBox">
+   <property name="geometry">
+    <rect>
+     <x>1070</x>
+     <y>70</y>
+     <width>191</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>林中细雨</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>巴黎咖啡馆</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>沙滩海浪</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>未选择音乐</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string/>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
