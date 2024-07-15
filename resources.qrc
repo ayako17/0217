@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>Clock.png</file>
+        <file>ziti.ttf</file>
+        <file>personal.jpg</file>
+        <file>xiaoba.png</file>
+        <file>background1.jpg</file>
+        <file>first1.jpg</file>
+        <file>coffee.wav</file>
+        <file>rain.wav</file>
+        <file>sea.wav</file>
+        <file>theme0.background1.jpg</file>
+        <file>theme0.background2.jpg</file>
+        <file>theme0.background3.jpg</file>
+        <file>mingkai.ttf</file>
+        <file>theme0.personal1.png</file>
+        <file>theme0.personal2.png</file>
+        <file>theme0.start1.png</file>
+        <file>theme0.start2.png</file>
+        <file>touxiang.jpg</file>
+        <file>theme2.background1.png</file>
+        <file>theme2.background2.png</file>
+        <file>theme3.background1.jpg</file>
+        <file>theme3.background2.jpg</file>
+        <file>theme3.start1.jpg</file>
+    </qresource>
+</RCC>
